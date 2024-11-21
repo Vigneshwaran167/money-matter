@@ -1,10 +1,10 @@
 # Money-Matters-A-Personal-Finance-Management-App
 Team Members
 
-S.SARANRAJ(HEAD)
+A.Vigneshwaran(HEAD)
 
-R.SANTHOSH KUMAR
+S.vengadesan
 
-S.SARMILA
+C.vaishnavi
 
-S.SARANYA
+K.vigneshwar
